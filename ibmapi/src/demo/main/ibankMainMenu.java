@@ -1,6 +1,6 @@
 package demo.main;
 
-import demo.main.organization.OrganizationMenu;
+import demo.main.Organization.OrganizationMenu;
 import gui.iBankMenu;
 
 import javax.swing.*;

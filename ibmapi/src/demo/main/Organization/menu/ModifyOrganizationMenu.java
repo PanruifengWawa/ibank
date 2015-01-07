@@ -1,8 +1,8 @@
-package demo.main.organization.menu;
+package demo.main.Organization.menu;
 
 
-import demo.main.organization.menu.edit.DeleteOrganizationFrame;
-import demo.main.organization.menu.edit.UpdateOrganizationFrame;
+import demo.main.Organization.menu.edit.DeleteOrganizationFrame;
+import demo.main.Organization.menu.edit.UpdateOrganizationFrame;
 import gui.iBankMenu;
 
 import javax.swing.*;

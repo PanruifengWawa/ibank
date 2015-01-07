@@ -1,4 +1,4 @@
-package demo.main.organization;
+package demo.main.Organization;
 
 import gui.iBankMenu;
 

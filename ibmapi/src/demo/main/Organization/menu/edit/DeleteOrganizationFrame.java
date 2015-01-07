@@ -1,4 +1,4 @@
-package demo.main.organization.menu.edit;
+package demo.main.Organization.menu.edit;
 
 		import gui.iBankGui;
 		import ibankapi.Transaction;

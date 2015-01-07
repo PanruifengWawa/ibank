@@ -1,7 +1,7 @@
-package demo.main.organization;
+package demo.main.Organization;
 
 
-import demo.main.organization.menu.ShowOrganizationFrame;
+import demo.main.Organization.menu.ShowOrganizationFrame;
 import gui.iBankGui;
 import ibankapi.Transaction;
 

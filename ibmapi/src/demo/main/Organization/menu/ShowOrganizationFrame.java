@@ -1,4 +1,4 @@
-package demo.main.organization.menu;
+package demo.main.Organization.menu;
 
 
 import demo.main.operator.menu.ModifyOperatorMenu;
